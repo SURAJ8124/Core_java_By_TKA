@@ -1,0 +1,6 @@
+Encapsulation:
+Encapsulation is one pillar of object-oriented programming.
+it is process of wrapping data and methods in a single unit.
+Encapsulation is achieved by making instance variable as private and methods making by public.
+Encapsulation is used for data security.
+you can not directly edit data from outside of class.
