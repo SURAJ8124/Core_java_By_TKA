@@ -15,6 +15,12 @@ public class Employee {
 
     public void setEmpSalary(int empSalary) {
         this.empSalary = empSalary;
+        if(empSalary<=10000) {
+            System.out.println("Employee Salary is low ");
+        }
+        else {
+            System.out.println("Employee Salary is in the range");
+        }
     }
 
     public String getEmpAddress() {

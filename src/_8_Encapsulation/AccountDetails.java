@@ -9,5 +9,10 @@ public class AccountDetails {
         System.out.println(obj.getAccNo());
         System.out.println(obj.getAccHldName());
         System.out.println(obj.getAccBalance());
+
+
+        BankAccount objBankAc= new BankAccount();
+        objBankAc.setAccountNumber("104326897");
+        objBankAc.setAccountHolderName("Anuj Kalind");
     }
 }

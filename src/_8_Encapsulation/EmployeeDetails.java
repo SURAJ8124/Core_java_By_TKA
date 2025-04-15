@@ -7,7 +7,7 @@ public class EmployeeDetails {
         obj.setEmpAddress("Wakad Road, PCMC, PUNE 411057");
         obj.setEmpDesignation("Senior Software Engineer");
         obj.setEmpExperience("5ys");
-        obj.setEmpSalary(100000);
+        obj.setEmpSalary(20000);
         obj.setEmpMobileNo("8909675437");
         obj.setEmpName("Akash Jadhav");
         System.out.println(obj.toString());
