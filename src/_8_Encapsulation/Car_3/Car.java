@@ -8,7 +8,7 @@ public class Car {
    public int getPrice(){
        return price;
    }
-   public int year(){
+   public int getYear(){
        return year;
    }
    public String getModel(){
